@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/unreal_test/BootCamp2/LastTest/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/BP_weapon.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/DT_Monster.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/BPI_weapon.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Characters/Mannequins/Animations/attack/Anim_Attack.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Characters/Mannequins/Animations/attack/AM_Anim_Attack.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/BP_Dummy.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/BP_Monstate.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/BP_CurMonState.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/NameTagWidget.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/AnimNotify_Hit.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/NameTagObjWidget.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/BPI_NameTag.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/ThirdPerson/Input/Actions/IA_Attach.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/ThirdPerson/Input/Actions/IA_detach.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/ST_Monstate.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/ST_CurMonState.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/unreal_test/BootCamp2/LastTest/Content/Waapon/DT_Monstate.uasset"
+			]
+		}
+	]
+}
